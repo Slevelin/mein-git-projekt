@@ -1,5 +1,6 @@
 int zahl1 = 10;
 int zahl2 = 5;
+int zahl3 = 5;
 
 int ergebnis = zahl1 + zahl2;
 
