@@ -13,3 +13,18 @@ C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufg
 C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.pdb
 C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.genruntimeconfig.cache
 C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\ref\VariablenAufgabe.dll
+C:\Git\mein-git-projekt\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.exe
+C:\Git\mein-git-projekt\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.deps.json
+C:\Git\mein-git-projekt\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.runtimeconfig.json
+C:\Git\mein-git-projekt\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.dll
+C:\Git\mein-git-projekt\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.pdb
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.AssemblyInfoInputs.cache
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.AssemblyInfo.cs
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.csproj.CoreCompileInputs.cache
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.sourcelink.json
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.dll
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\refint\VariablenAufgabe.dll
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.pdb
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.genruntimeconfig.cache
+C:\Git\mein-git-projekt\VariablenAufgabe\obj\Debug\net10.0\ref\VariablenAufgabe.dll
