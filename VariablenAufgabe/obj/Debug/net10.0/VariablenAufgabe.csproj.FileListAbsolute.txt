@@ -1,0 +1,15 @@
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.exe
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.deps.json
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.runtimeconfig.json
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.dll
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\bin\Debug\net10.0\VariablenAufgabe.pdb
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.AssemblyInfoInputs.cache
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.AssemblyInfo.cs
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.csproj.CoreCompileInputs.cache
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.sourcelink.json
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.dll
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\refint\VariablenAufgabe.dll
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.pdb
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\VariablenAufgabe.genruntimeconfig.cache
+C:\Users\Severin_Schule\OneDrive - sluz\Desktop\Schule\M319C#Codes\VariablenAufgabe\obj\Debug\net10.0\ref\VariablenAufgabe.dll
