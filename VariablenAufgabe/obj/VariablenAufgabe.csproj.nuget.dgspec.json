@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Severin_Schule\\OneDrive - sluz\\Desktop\\Schule\\M319C#Codes\\VariablenAufgabe\\VariablenAufgabe.csproj": {}
+    "C:\\Git\\mein-git-projekt\\VariablenAufgabe\\VariablenAufgabe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Severin_Schule\\OneDrive - sluz\\Desktop\\Schule\\M319C#Codes\\VariablenAufgabe\\VariablenAufgabe.csproj": {
+    "C:\\Git\\mein-git-projekt\\VariablenAufgabe\\VariablenAufgabe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Severin_Schule\\OneDrive - sluz\\Desktop\\Schule\\M319C#Codes\\VariablenAufgabe\\VariablenAufgabe.csproj",
+        "projectUniqueName": "C:\\Git\\mein-git-projekt\\VariablenAufgabe\\VariablenAufgabe.csproj",
         "projectName": "VariablenAufgabe",
-        "projectPath": "C:\\Users\\Severin_Schule\\OneDrive - sluz\\Desktop\\Schule\\M319C#Codes\\VariablenAufgabe\\VariablenAufgabe.csproj",
+        "projectPath": "C:\\Git\\mein-git-projekt\\VariablenAufgabe\\VariablenAufgabe.csproj",
         "packagesPath": "C:\\Users\\Severin_Schule\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Severin_Schule\\OneDrive - sluz\\Desktop\\Schule\\M319C#Codes\\VariablenAufgabe\\obj\\",
+        "outputPath": "C:\\Git\\mein-git-projekt\\VariablenAufgabe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Severin_Schule\\AppData\\Roaming\\NuGet\\NuGet.Config"
