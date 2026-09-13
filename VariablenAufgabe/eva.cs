@@ -7,4 +7,3 @@ Console.Write("Gib die zweite Zahl ein: ");
 int Nummer2 = int.Parse(Console.ReadLine());
 int Summe = Nummer1 + Nummer2;
 Console.WriteLine("Die Summe ist " + Summe);
-
